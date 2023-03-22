@@ -19,6 +19,5 @@ Linkedin: https://www.linkedin.com/in/f%C3%A1bio-bronze/
 <br/><br/>
 <img src="https://user-images.githubusercontent.com/116193280/227020785-45522b57-753e-45a4-aaec-f6af2e1705ef.png" />
 <br/><br/>
-<img src="https://user-images.githubusercontent.com/116193280/227020995-dc365b62-8fbc-43d1-be66-7f6273bbe06a.png" />
+<img src="https://user-images.githubusercontent.com/116193280/227021891-f9bd32b3-de6d-4deb-83ba-bf5d7d8e4043.png" />
 <br/><br/>
-
