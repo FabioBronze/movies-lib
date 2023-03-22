@@ -11,7 +11,7 @@ import { useSearchParams } from "react-router-dom";
 import MovieCard from "../components/MovieCard";
 
 // API Import
-const searchUrl = import.meta.env.VITE_SEARCH;
+const searchURL = import.meta.env.VITE_SEARCH;
 const apiKey = import.meta.env.VITE_API_KEY;
 
 const Search = () => {
@@ -29,9 +29,9 @@ const Search = () => {
 
   // Chama a funcao sempre que o componente (pagina) for carregado
   useEffect(() => {
-    const searchWithQueryURL = `${searchUrl}?${apiKey}&query=${query}`;
+    const searchWithQueryURL = `${searchURL}?${apiKey}&query=${query}`;
     getSearchedMovies(searchWithQueryURL);
-  }, []);
+  }, [query]);
 
   return (
     <div className="container">
